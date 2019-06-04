@@ -1,5 +1,7 @@
 # The Awesome Newspage
 
+# Jonas 
+
 ## Installation
 
 Klon repository til din computer, og åben mappen i VSCode.
@@ -26,7 +28,3 @@ Udfordringen ligger i at splitte designet op i fornuftige og logiske dele, samt 
 Det vil også være ok at oprette templates for elementer der kun benyttes på en side, da siderne indeholder mange linjer kode... det kan være lettere at vedligeholde hvis siderne brydes op i elementer.
 
 Det kan anbefales at bibeholde den overordnede html struktur på den overordnede `.ejs` template, da strukturene ellers kan blive meget uoverskueligt hvis der blot står en samling includes på siden. 
-
-
-
-## simple test
